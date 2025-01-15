@@ -2,6 +2,8 @@
 
 A web application that allows users to securely store, manage, and organize their notes.
 
+**Live Website:** [Visit the live app here](https://notes-keeping-production.up.railway.app/)
+
 ---
 
 ## Table of Contents
@@ -68,4 +70,3 @@ Phone:
 
 
 <img src="https://github.com/user-attachments/assets/37c8712f-466a-4cab-b121-9789caf3e0f7" width="200" />
-
