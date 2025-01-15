@@ -9,12 +9,7 @@ A web application that allows users to securely store, manage, and organize thei
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [Setup and Installation](#setup-and-installation)
-5. [Usage](#usage)
-6. [Screenshots](#screenshots)
-7. [API Documentation](#api-documentation)
-8. [Contributing](#contributing)
-9. [License](#license)
+4. [Screenshots](#screenshots)
 
 ---
 
@@ -53,17 +48,24 @@ This **Notes Keeping App** is designed to provide users with a simple and effici
 
 ---
 
-## Setup and Installation
+## Screenshots
 
-### Prerequisites
+Add screenshots of the app to give users an idea of how the app looks.
 
-Ensure you have the following installed:
-- Node.js
-- npm/yarn
-- MongoDB (or a cloud database service like MongoDB Atlas)
+### Example:
 
-### Clone the repository
+#### Login Page:
+![Login Page](https://github.com/user-attachments/assets/d677ae18-bc00-4d35-b48d-9a0b44d1c311)
+![Phone](https://github.com/user-attachments/assets/b9b49292-05d7-4de8-b712-3087d7846864)
 
-```bash
-git clone https://github.com/your-username/notes-keeping-app.git
-cd notes-keeping-app
+
+
+#### Dashboard:
+![Dashboard](https://github.com/user-attachments/assets/9dc7be66-a0b2-4792-a983-793f6a64c519)
+![Phone](https://github.com/user-attachments/assets/23a11e0c-f24d-4900-a5a1-8c03b159afee)
+
+
+### Edit Notes:
+![Phone](https://github.com/user-attachments/assets/37c8712f-466a-4cab-b121-9789caf3e0f7)
+![Screenshot (4)](https://github.com/user-attachments/assets/46af6f1a-220e-49f5-94cd-01e23510eefe)
+
