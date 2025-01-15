@@ -54,7 +54,10 @@ Add screenshots of the app to give users an idea of how the app looks.
 
 ### Example:
 
+<img src="https://github.com/user-attachments/assets/9dc7be66-a0b2-4792-a983-793f6a64c519" width="500" />
 
+
+Phone:
 
 <img src="https://github.com/user-attachments/assets/b9b49292-05d7-4de8-b712-3087d7846864" width="200" />
 
