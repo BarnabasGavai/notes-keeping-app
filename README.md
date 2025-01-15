@@ -56,13 +56,13 @@ Add screenshots of the app to give users an idea of how the app looks.
 
 
 
-<img src="https://github.com/user-attachments/assets/b9b49292-05d7-4de8-b712-3087d7846864" width="500" />
+<img src="https://github.com/user-attachments/assets/b9b49292-05d7-4de8-b712-3087d7846864" width="200" />
 
 
 
-<img src="https://github.com/user-attachments/assets/23a11e0c-f24d-4900-a5a1-8c03b159afee" width="500" />
+<img src="https://github.com/user-attachments/assets/23a11e0c-f24d-4900-a5a1-8c03b159afee" width="200" />
 
 
 
-<img src="https://github.com/user-attachments/assets/37c8712f-466a-4cab-b121-9789caf3e0f7" width="500" />
+<img src="https://github.com/user-attachments/assets/37c8712f-466a-4cab-b121-9789caf3e0f7" width="200" />
 
