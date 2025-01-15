@@ -55,17 +55,14 @@ Add screenshots of the app to give users an idea of how the app looks.
 ### Example:
 
 #### Login Page:
-![Login Page](https://github.com/user-attachments/assets/d677ae18-bc00-4d35-b48d-9a0b44d1c311)
-![Phone](https://github.com/user-attachments/assets/b9b49292-05d7-4de8-b712-3087d7846864)
-
-
+<img src="https://github.com/user-attachments/assets/d677ae18-bc00-4d35-b48d-9a0b44d1c311" width="500" />
+<img src="https://github.com/user-attachments/assets/b9b49292-05d7-4de8-b712-3087d7846864" width="500" />
 
 #### Dashboard:
-![Dashboard](https://github.com/user-attachments/assets/9dc7be66-a0b2-4792-a983-793f6a64c519)
-![Phone](https://github.com/user-attachments/assets/23a11e0c-f24d-4900-a5a1-8c03b159afee)
-
+<img src="https://github.com/user-attachments/assets/9dc7be66-a0b2-4792-a983-793f6a64c519" width="500" />
+<img src="https://github.com/user-attachments/assets/23a11e0c-f24d-4900-a5a1-8c03b159afee" width="500" />
 
 ### Edit Notes:
-![Phone](https://github.com/user-attachments/assets/37c8712f-466a-4cab-b121-9789caf3e0f7)
-![Screenshot (4)](https://github.com/user-attachments/assets/46af6f1a-220e-49f5-94cd-01e23510eefe)
+<img src="https://github.com/user-attachments/assets/37c8712f-466a-4cab-b121-9789caf3e0f7" width="500" />
+<img src="https://github.com/user-attachments/assets/46af6f1a-220e-49f5-94cd-01e23510eefe" width="500" />
 
